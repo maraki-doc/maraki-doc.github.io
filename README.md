@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Maria Giatra!
+# Hey there, I’m Maria!
 
 Welcome to my personal github page!  
 I’m a first year comp sci student, who loves to code, solving problems and to build projects.
